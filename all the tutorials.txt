@@ -1,0 +1,391 @@
+1. Introduction
+    1.1 Riding Styles
+    1.2 Bikes by Riding Style
+    1.3 Riding Posture
+
+2. Fundamentals
+    2.1 Clutch Control
+    2.2 Throttle Control
+    2.3 Counter Steering
+    2.4 Gear Shifting
+    2.5 Braking
+    2.6 Leaning
+
+3. Safety
+    3.1 Safety Gear Overview
+    3.2 Choosing a Helmet
+    3.3 Choosing Riding Gear
+
+
+1.1 
+    in the context of this guide a beginner freindly motorcycle is a bike which allows a person to learn basic and possibly the most intricate aspects of riding in the most easy and comfortable way.
+
+    and possibly in the shortest amount of time 
+
+    there a wide variety of bikes to choose from such as cruisers for the relaxed ride , sports bike for the fast and high speed cornering , touring bikes for the long roads or even dirt bikes for our fellow dirt lovers 
+
+    Types of bike 
+        1. standard
+            they are probably the most common type 
+            they drop the sxtra fabcy stuff making them cheap easily accesible and easy to fix / maintain
+            their upright position , managble size and lighter , weight makes them a breeze to handle 
+            riding posture is balanced , you dont curl up like ina sprot bike but you also dont feel every bit of unleveld road like in a cruisers
+            making them versatile
+        2. cruisers
+            they are all about the style and the "cool" factor 
+            they have low seats and high rise handle bars and a more leasned back riding style 
+            they are very comfortable given the pavemnet is good 
+            they can be used fro longer rides
+        3. sport bike 
+            they usually have a sleek aerodynamic body work 
+            thet are designed to cut through air
+            they force you in a  forward-Leaning posture 
+            this is not comfortable for most people
+            they are made with latest engine tech , advanced breaking system, and cutting edge suspension
+            they are made using light weight material to boost speed responsiveness
+            they are NOT build for long rides , they are made for performance and never for conveinence, comfort or "mileage"
+        4. touring
+            they are basically luxury cars but in bike
+            they are made for long distance travel ensuring comfort, large fairing to block the wind , and big top and saddlebags for the luggage
+            plush seats and suspension, with built in navigation
+            these are to name a few of the luxury features 
+            (joke:- they are kinda like siting in the back seat of a luxury car but for some reason you are on a bike.... idk)
+        5.sport touring
+            they are a type of blend between touring and sports bike 
+            you get a long range and comfy seats paired with agility and performance of a sports bike
+            you get long range and comfy seats paired with agility and performance of a sport bike 
+            the riding posture is much more upright and comfortable
+            they are offer easier handling thanks for the lighter weight and smaller size 
+        6. Dirt bikes 
+            there are more in depth motorcycle divisions under dirt bikes , but we will cover the overall idea here 
+            they are designed to ride off the pavemnet
+            they have "knobby" tires
+            the long travel suspension soaks up all the bumps and all type of rough terrain
+            they are not meant for typical ridering on the road , they lack street legal neccesities, like proper tires for the pavement and proper lighting setup
+        7.adventure bikes
+            often called adventure tourers , these bikes are perfect fro long rides , with occosianal off road "adventure" (cause adventure bike? no? ok ill stop)
+            they have alrger engines and greater fuel range or mileage ,
+            they use more road oriented tire and suspension setup
+
+
+    Best beginner advice is to go for a light weight starndard or naked bike OR you can also go for a street legal super moto or dual sport if you also want a bit off road , but they usually done have ABS , just make sure they have one just as a safety net 
+*end*
+
+1.2
+    riding position is a dead giveaway of an new or inexperinced rider, lets cover proper body postioning while riding our bikes 
+    why do it ?
+        anyone can just sit on the bike no? well thats partially true , yes you can but to ensure better control , manuverblity avoiding joint pain and neck pains , proper riding posture is a must
+    here is what people usually do 
+        body sitting comfortably somewhere around the middle of the seat 
+        heels are placed on the foot pegs
+        knees are not braced and are flopping around
+        (basically the person is sitting like he would on a chair , the only difference the chair can go 100mph)
+        the arms are fully extended to reach the handlebars 
+        sitting like this on a bike , allows our body to just flop around constantly changing the center of mass , which inturn changes the cmobined center of mass of the whole bike
+        the steering is also quite difficult with you hands fully extended(go on try it)
+        and the foot dangling from the footpeg , can rub on the pavement while cornering or can get moved in the opposite angle if you fall on to it
+    here is the proper riding position 
+        due to the geomtrical physics of the front wheel (we go deeper abut this in the counter steering bit), the front wheel can auto -correct it self ,normally we want the front wheel to do all the work , so we grip the handlebare very lightly , enough to get a good grip 
+        sitting closer to the tank the arms can stay bent , loose and happy :) , we dont wanna go forward too much either , so that we are touching the tank , there should ibe atleast a fistful worth of gap between the tank and you
+        the range of motion will also increase with you arms bent , try it for  yourself 
+        also i personally like to keep my wrist flat while holding the handle bar , that is no flexing the wrist but it is about personal perefence 
+        now feet, instead of putting the heal on the toe peg you put the ball of your feet on the foot peg, in all modern motorcycles there is metal plate beside the foot peg , you can rest your heel there , it allows for better feel and give that "connected" feel to the bike
+        it is the default postioning of the foot , your feet should always return to this position after gear shifting or braking 
+        you can also hug your tank using your knees , this again gives a more 'connected' feel to the bike and allows for better control
+        for training purposes you can put any paper between your knee and the tank to build that muscle memory 
+        your upper body should automatically come to the right place aftre you check all these boxes , but keep in mind you keep you back upright,
+        if you have problem reaching the handle bar , instead of bendig your back , it is better to lean 
+        you also have to engage your core muscles while braking cornering or accelaration tho it is not that important and your body kinda does that automatically as a reflex action so no need to worry about it , but its good to keep in mind 
+        as we mentioned a lot in our previous topic , the riding posture of your upper body , is also determined by the type of bike you are riding to keep that in mind 
+    (note do include this , all the images in this section have provided by motocontrol , be sure to check him out on youtube , his page is linked in the credits page)
+*end*
+
+andreybodrovmotocontrol@gmail.com
+
+1.3 
+    in this guide we are going to fix on our vison where we see , now it theory it sounds simple , i mean everyone knows how to use their eyes , but as you go through this guide youll realise importance of vision
+    what is vision ? 
+        you may or may not have heard the saying , of "look where you want to go, your bike will always follow your vision", while that is true fro newbie riders 
+        this is severly over simplified , eventually we will have to learn the advanced things in vision , and how it actually works fundamentally
+        tho your bikes goes where you look is an oversimplification of a far more advanced topic , there is some truth to it, vision do play an heavy role in our riding
+        human eyes are very good at detecting objects , and guessing or estimating position , speed of those objects relative to your speed 
+        to ensure this you have to look straight on the road , (this is a personal advice , i personally used to look at the number plates  or down at the road sometimes whenever there was a car or traffic ahead of me , what helped is looking through the windshield of the car to get a vision of what lies ahead of the car , and looking at the far end of the road , during traffic, this helped me while overtaking and target fixation)
+        this is especially true in corners , you cant side eye your corners (lol) , and you cant look as you go , you have to look ahead of you , especially during blind corners (we will touch a lil on this as well)
+        this why look where you wanna go is a huge deal (this allows us to use both of our eyes) giving us depth and speed perception due to binocular vison
+        think of it like this normally your brain is acustomed to running speed , so there is no point in looking ahead oif you there is plenty of time to react , but it is more neccesary to look down so we dont trip overanything, but during riding , we are going fast , so we have to look further down the road to help us react better , not down (even tho that is human insticnt)
+    what do while cornering ?
+        while cornering the perfect line is to stay outside-line of the corner till we see the exit of the corner , then we can Throttle , bringing our bike upright
+        how do we knoe the exit of the corner and when the corner ends? we do this using something call a limit point 
+        imagine looking down a curved road (you can use the attched image for better visuals), there only som much you can see ,and due to the "curve" you cant see the full road , it is blocked ,
+        so you look at the point where the right side of the road and left side of the road meets (it is shows in the image)
+        this is called the limit point or apex point , you keep looking at this point, if this apex points moves away from you , the corner is opening and when this comes directly infront of you , there is no more corner
+            you can poll the throttle in this situation
+        if this apex points starts coming towards you , the corner is getting tighter, and you should break,    
+        when you keep all these point in mind, your brain does the work and adjusts accordingly 
+    target fixation 
+        i mena yeah we worked on the corners , but we still ahve to see for oncoming vehicles, road conditions , dirt etc .
+        we use a combination of our periphiral vision and main vision, main vision is used to see everything , everythign is in focus and you can clearly see everything 
+        but it has a pretty narrow FOV(field of view) 
+        rest is periphiral vision that gives us only the general idea 
+        this is enough for our periphiral vision to make out sudden movements or changes in the usual flow of things 
+        whenever this happens our main vision jumps to se ,what "excatly" happened, and is it dangerous 
+        this is called target fixation (having your vison fixed at something else that your brain feels important, making you lose main vision of the road ahead)
+        due to this sometimes peopel can become so focused of that thing , that they steer towards it (thats basic human brain behaviour)
+        you have really train yourself to break this habit , you can do circles or manuverblity practtices using cones , or even just keep something like this in the mind , dont stres too much about , thats the whole point of target fixation
+    see our vision is way more compelx , its going to take a lot of practice and concious decisions to change it and adapt to the riding style , but with enough practice , anyone can get it 
+*end*       
+
+2.1 
+    in this guide we are going to talk about clutch control, and the most common mistake a beginner does ,or even some experinced riders , this is very true for people that are coming from  learning riding a car first, if you are one play close attention
+    say bye bye to accidental stalling 
+    whats is the clutch amd what does it doe ?
+        it simply just disconnects the engine from the gear box , so energy will be transferred from the engine to the gear box , i.e.. your bike wont move 
+        when clutch is pulled in the rnginr is disconnected and is called disengaged clutch
+        when the clutch is realsed the engine is connected and is called engaged clutch
+        but it isnt just an on off button , there an whole range of motion between the 2 points 
+        this range of motion have some important points and zones to them , lets take a look: 
+            1. start the bike , pullin the clutch completly , and put it in first gear , now very slowly let go of the clutch the point where you bike feels like it is moving forward or want to move forward ,that is the clutch biting point
+            2. everything before this point is the zone where clutch is disengaged, in this zone it doesnt matter if you pull the clutch all the way in or just slightly below the biting point 
+            3. after this zone starts the friction zone or the zone of partial clutch engagement , also called half cltuch, here the engine transfers more and more power to the bike as you realse the clutch more more starting from the biting point 
+            4. at the end of the clutch lever travel you should have some free play (the clutch should be able to move around or wobble a lil bit before coming into play , preferably should be between 1cm-2cm)
+            we will learn a bit more about the clutch and how it is used in shifting in later guides 
+
+    the most common imstake most newbie riders make is letting go of the clutch too fast ,and at the same time not giving enough throttle
+    if you can give enough throttleyou can just let go of the clutch and the engine wont stall , but its just in thoery dont do it on bigger bikes, if you wan to do do a backflip , go ahead 
+    while doing slow speed manuvers , you can use the clutch to help balnce the bike (sounds insane, but lemme explain)
+    for this to work you must keep the clutch engaged in the friction zone ideally just a lil above the biting point(some people might say you can burn the clutch this way , but no that is simply not true)
+        1.if you feel like your bike is going to tip over you can simple realse the clutch a bit , so the bike accelarats ever so slightly and the bike will stand up
+        but make sure to give enough and constant throttle or the bike can easily stall
+        this happens in car drivers mostly because cars a re quiter, can go on slow revs, and the first gear is also lower making the car idle without even giving any throttle, 
+        but in bike its quite opposite , but it is completly normal behaviour in a bike so no need to worry
+        2. if you feel like you are going a lil too fast you can again grab the clutch so the bike slows down 
+        3. one thing to keep in mind during slow speed manuvers is to use the rear brake instead of the front brake , as your handle bar turns a lot during slow speed manuvers using the front brakes while your handlebars are turned can tip your bike over , instead we use the rear brake for more stability
+        this doesnt mean to drag the brake al lthe time this WILL heat up and wear down your clutch 
+    non-linear nature of the clutch 
+        the clutch is non-linear , means the more you relase the clutch expontially more power will be transferred by the engine =, this doesn t creat a problem during slow speed , but while taking off you have to change the speed of the clutch 
+        to take off nicely you have to let go of the clutch fast at the start and then slower as you reach the end point of the clutch
+        this is also applied when you change gears 
+    there is one exersice that you can do anywhere and will actually really help you learn the clutch , the stop and go exersice 
+    the goal is to go in a straight line then for a monement stop our bike completely and take off again smoothly, without putting out feet down or stalling  
+    few tips : pull in the clutch when you apply break and realse clutch when you realse break and keep your throttle constant 
+*end*
+
+2.2
+    abrubt and jerkky throttleis something that can easily get us in trouble, especially with a powerful motorcycle
+    this can be avoided using proper throttle control , lets take a look:
+        lets look at some of the most common throttle related mistakes , then we can see their fixes
+            1. opening the throttle to quickly which washes out your back tire , causing a crash 
+            2. a so called whiskey throttle , where you open the throttle , and then cant realse it, making us lose control of the bike after that 
+            3. an uncontrolled or unwanted wheelie
+            4. chopping off the throttle to fast 
+        and many combinations of these mistakes
+    lets take a look at how to actually use a throttle
+        1.hand postion 
+            what a lot of people do is they grab the throttle while flexing ther wrist , and then straighten the wrist as they give throttle (giving throttle means rolling the throttle or accelarator)
+            there are 2 probelms here
+                1. if you need to brake fast at some point you would first have to close the throttle and then reposition your hand and then brake or you risk grabbing the brake while on throttle, this can cause a lowside (you tiping under the bike , the bike falling onto you)
+                2. if we roll on the throttle , thenour bike start to accelarate , our body get pulled back , straightening our arms and wrists , which will make you give more throttle, and this causes our whisket throttle as we mentioned earlier
+            you should grab the throttle with a straight wrist , and then flex your wrist while giving throttle
+            now you can brake faster and if your body get pulled back , with straightening of your wrist the throttle closes , getting rid of whiskey throttles
+        2. dont have a death grip on the throttle , hold it like an egg,  you hold it firmly, you wont drop it amd you dont hold too hard 
+            by not holding the handle too tightly , you allow your front wheel to do its job and maintain balance, as we mentioned earlier in body posture guide
+        3. if you wanna accelarate really fast , you should move forward to the bike ,reducing wind drag , preventing accidental wheelie and you can twist the throttle a lot more than usual
+        do this just before you start accelarating , not when you give the throttle 
+        4. we can not only use are wrist to twist the throttle but also our finger to give us finer control, on top of that , if you place 1 or 2 finger on the brake , not only can you access the brake faster but you also can use your fingers to measure how much throttle you are giving , as they slide back and forth on the break lever 
+        you can also use your thumb or your palm , tho it is a topic of personal likes , so do experiment with all, i personally like the finger better
+*end*
+
+2.3
+    in this guide we are going to talk about counter steering, this will probably the most detailed guide on this cause there is a lot of ground to cover, so yeah the paragraphs can get a lil bigger
+    counter steering is used for leaning the bike , really fast and really far, lets jump right into it 
+    most people will explain counter steering like when you turn the handle bars one way the bike goes the other way, and when you are going at slow speeds this becomes direct steering meaning , when you turn the handle bar one way it goes that way and not the opposite 
+    while this is true and easy to understand , it does not cover the full concept and the physics behind counter steering , leading to confusion.
+    we are going to cover everything from the scrath but keep one thing in mind , counter steering is not a techinque used to steer, it is actually how the steering works lets dig deeper
+        1. why does our bike stay upright when it moves ?
+            naturally it only has 2 wheels , and that does not make it very stable, most people think of it a result of the gyroscopic forces, some even say there is no scientific proof and we dont how it works both are false , and last one is even funny
+            now gyroscopic forces do have their imapct during higher speeds , majority of our stability does not come from it, it comes from the geometry of the bike , how it is designed and build 
+            some motorcycles have difference in steering behaviour due to difference in geomtrical build, but they all are based on the same concept
+            on all bikes the steering column and the fork are never perpendicular to each other , they always have some angle
+            if we draw a straight line through the fork , and mark the point where that line touches the road , the contact point of the tyre with the road will always be behind it by some margin
+            this margin is called trail
+            what this does is , when our bike leans , due to the  center of our contact patch being backwards , it makes the wheel turn in the direction of the lean 
+            when our bike moves forward this self steering prevents our bike from falling down 
+             a experiment you can do on your own , hold the bike from the back , and try movig it forward, without touching the handle bars , it is pretty easy to keep upright 
+             then try again but this time move backwards , it will be muchhh harder , becuase the geometry of the bike has been reversed 
+        2. speed also affects how much the front wheel turns itself , you rpobabaly already noticed that when bike turns at slow speeds , the handle bar turn way more than when bike turns at high speeds 
+            this can be used to our advantage , by changing the speed of our bike we can change the turning radius, during a turn 
+            as you can see the front wheel does a lot of the work for us , so why do we need handle bars again ?
+            handle bars are used to change the lean angle of the motorcycle 
+        3. handle bars to change lean angle 
+            now imagine going straight, now when you turn your handle bars to the right , the bikes start going right, but the bike does not have any support like a car does with teh 4 wheel setup , so it start tipping more and more to the left side
+            if you keep holding the handle bar, you will eventually fall to the left side , so we should let go after some time, this makes the bike unstable , btu becausewe let go of the handle bar , and we know front wheel stablizes on it own , it eventually 
+            corrects itself and we go in the left direction 
+            this initial turning the handle bar to the left , and then letting go of the handle bar to make the bike to the right, is called counter steering
+            it is not an techinque, it is just an input we make on the handle bar to make it go to our desired direction with our desired lean angle 
+            (if you think, turn left to go right , and turn right to go left can be confusing while riding, think of it like this  you push on the right side of the handle bar to go right and left side of the handlebar to go left)
+            now to chosse your lean angle , as i mentioned eralier if you keep the handle bar turned thi bike will tip more and more in the opposite direction
+            so if you want a greater lean angle , you keep holding the handle bar till you get you desired angle and eventually let go 
+            keep in mind intially it wil be scary to reach a lot of lean angle , but it should go away , also you shouldnt the lean the bike more that its lean capacity , that is when your foot pegs starts scraping on the floor , a afe net is to always remain a lil above than this lean angle, so you dont crash 
+            if you are in midst of a lean and you wanna lean more , just push the handlebar more on the side where you wanna lean more
+            if you wanna exit the lean angle and make the bike vertical just push on the handlebar opposite to the lean angle, so if you are leaning right you will be pushhing the left side of the handlebar to be more vertical 
+            counter steering is subconcious and everyone who rides a bike uses it , cause that the only way you can steer 
+            but then why learn it ? if you know about it and the concepts behind you can apply it better , faster and more confidentally instead of relying on your insticnts
+            also the brain can only learn to a certain degree on its own   
+*end*
+
+2.4
+    this guide is for shifting , shifting gears to be precise we are going to fo through sevral ways , which is good, and what we should do 
+    1. BASIC Shifting
+        up shift 
+            we close the throttle, pull in the clutch, shift up a gear, and let go of clutch going back on the throttle 
+        down shift 
+            we close the throttle, pull in the clutch , shift down a gear and let go of the clutch slowly to avoid abrupt engine braking, 
+            and then we go back on the throttle or reapeat the process for one more downshift 
+        some mistakes people can make , 
+            1. they look down at the controls so like the clutch , the shifter, obviosuly we wanna avoid this and keep looking at the road ahead 
+            2. the shifting process can take too long, increasing accidental crashes or stalling chances 
+            3. this can happem while downshifting , letting go off the clutch too fast , this causes abrupt engine braking making th e bike jerk 
+                what is engine braking? 
+                whenever we down shift to an smaller gear, the rear wheel is moving at a certain speed , but our transmission has gone to a gear that supports slower speed than that , so if we realese clutch too fast the transmission does not have time to adjust , the gear hs to spin a lot more to match the speed (since it is smaller), so the rpn goes high and the bike slows down cause that gear cannot support the speed we where going at or even if it can the transmission didnt have time to adjust to the high rpm 
+            4. upshifting too early , bike engine are meant to be in the higher rpm ranges compared to a car, upshifting too early can resullt in lower rpm's , causing the accelaration to be slow and torque to be less as well, and overall worst performance
+            we wanna upshift at an higher rpm range perefbly 7000 to 8000 but that can change from bike to bike
+    2. rev matching while shifting
+        there is something called clutchless shifting , that is taught before the rev matching but i am not teaching it because of 2 reasons
+            1. while practicing the clutchless shifting you run the risk of damging your clutch plate 
+            2. i learned without it , and ill make sure you do too, if you still wanna see it you can check moto-control's tutorial on it on youtube (link this url usuing markup https://youtu.be/LYSthcagyF0?si=LBlZQdkzhH2lD2O9)  
+        so lets start
+            main idea: while we saw that if we let go of clutch early  while downshifting in the standard shifting section , we make the bike jerk due to sudden increase in the revs and the lack of time for the transmission to catch up , you can avoid this by giving revs, that is, accelarating with your clutch pulled in before-hand so the revs are already at the right spot , where they need to be , there is no sudden rise in revs and no problem for the transmission to catch up meaning you can just let go of the clutch without the jerkiness , lets take a look on how to do it 
+            1.up shifts 
+                while upshifting we quickly roll of the throttle, while quickly pulling the clutch and letting go , during this quick clutch movement with upshift the gear 
+                now i have said them as 3 different things but keep in mind they should all happen at almost the exact time, it is difintalty very difficult to master
+                thats hwy it takes time and a lot of practice , in theory it is very simple but the timing and pulling that timing off consistently is very difficult
+            2. downshifts 
+                while downshifting we are not actively giving throttle , so we do a quick 'blip' of the throttle, so we quickyly give the throttle and close it back up , during this time we quickly pull in the clutch and letting go of it , and during the clutch movement , we quckly downshift a gear 
+                again it sounds simple , but it is actually a really fast manuver in real time , i would suggest watching some videos and imagine yourself doing it , think of all the steps and also notice how the person is doing it , watch a video here (link this url using markup https://youtu.be/33zTKzIrtiM?si=e85l8Saznpa9ukD3)
+            and thst all , it may take a lot of practice but youll eventually get a hang of it 
+
+            i want to address some misinformation regarding revmatching while downshifting and engine braking 
+                rev matching is best way to use engine braking , if you just go down to a smaller gear , your bike slows down adn to avoid the jerky ness that comes with it,  you revmatch 
+                but some people or some influncers online treat engine braking as the ultimate braking technque , and tell you to go from 5th gear to 1 gear in just one go and eventually youll bike will stop becuase engine braking, as much as this is laughable and simply not true
+                let me explain why , engine braking contributes to 20% of your engine braking power , 70-80% of it comes from using the perfect combination of front and rear brakes (we will cover this in the next guide)
+                so you cant dump all the gear and just amgically stop , but you also run the risk of your rear wheel getting locked up ,that is it stops spining and now you can skid, and fall 
+                so rev match at the perfect times , so for example if you rev match from 5th gear to 4th gear, and the revs go high , wait for them to come down a lil and then rev match for the next downshift   
+*end*
+
+2.5
+    in this guide we are going to talk about braking , but lets tackle the biggest confusion in the bike riding community, which brake is safer rear or front , lets take a look:
+        most people think rear brake is better cause it is safer , but lets take a deeper look at the physics behind it 
+        well first see why people think rear brake are better , most people has experinced or seen a bike as in a bucycle flip over when they apply the front brake moving at a speed , so now intutively they think the same will happen on a motorcycle
+        tho it is possible , but it isnt so easy thta you can do it accidentaly , your mototrcycle has a lot more weight and mass to it , and thats gives it inertia(link this using markup https://www.geeksforgeeks.org/physics/inertia/) , making it resist the flip over more than a bicycle
+        also on on a bicycle the center of mass(link this using markup https://www.geeksforgeeks.org/physics/centre-of-mass/) is very high since we sit on top of it , where as on a motorcycle it is quite slow since it is underneath us and has a lot more weight to it (btw you can click any of the physics terminology to take you a quick explanation of the topic) 
+        when people just grab the front brake on a mototcycle (without progressive braking bassicalyy just yamming the front brake) they lose traction in the front tyre and that can cause a low side ( a lowside is a mototcycleaccident wheere the bike fall onto you where as high side is where you get thrown off the motorcycle going above the motorcycle)
+        whenever we brake , no matter how, the weight of the bike transfers to the front wheel (due to the bike exisiting speed and intertia the bike wants to go forwaard but when we brake we resist that motion , we want it to stop so the front wheel gets overloaded with the weight of the bike) the faster we brake , and the higher is our speed the more weight transfers to the front tyre
+        the more weight we have on the tyre the more traction we have on the tyre(link this using markup https://en.wikipedia.org/wiki/Traction_(mechanics))  
+        this weight transfer takes some time thast means if we just yam the front brake , the weight doesnt get enough time to ttransfers and the front tyre gets overwhelmed by the force, and the front wheel locks up (it stops spinning), and then it skids and causes a low side as we saw 
+    THIS ARE THE MAIN REASONS WHY PEOPLE THINK FRONT WHEEL IS dangerous and dont use it , so should we use only the rear brake right ? lets take a  look
+        if we just use the rear brake while braking we end up with very poor braking performance as we discussed earlier , while braking the weight goes to the front wheel , so well the rear wheel does not have any traction, it does intitally cause the transfer takes time but during the end of the braking , it doesnt and can skid 
+        due to this traction and weight difference in the wheels , the rear brake only provides around 20% to 25% of braking power , and if you use only the front wheel our stopping distance is twice or even more 
+        now again as i said the rear wheel has less traction , which means while using only the rear brake the rear whell can lock up easily cause the rear wheel can be easily overwhelmed
+        this is not a problem when we are going straight yes the bike skids , who cares (if there is a car in front it will), also if you are mid corner or turn  , the bike drifts , and when it does that we have 2 possible outcomes 
+        either we keep the rear brake applied ,and lay the bike down and skid to the ground, cauing a lowside , or if we realse the rear brake mid skid, the rear wheel gains traction again due to us not braking anymore the bike stands up, but you still have the momentum (link this using markup https://www.geeksforgeeks.org/physics/momentum-formula/) and intertia going forwards sop you can get catapult forward this is called a high side 
+        so they both are wrong and dangerous using alone , so lets learn how to use them together 
+            but there is one downside to this but lets learn how to do it first 
+                1. you apply the rear brake
+                2. you gradually realse the rear brake as the weight is transferring to the front wheel
+                3. you apply the front brake slowly more and more as the front wheels holds more and mopre weight
+        as you can see there is a lot going on, and you have to precise otherwise you can lose traction and fall , so it takes some isolated practice , a lot of it to be able to pull it off in emergencies
+        but luckily we have our good friend ABS here , ABs does nopt mean to use any type of braking without fear of fall, no , ABS should be use to pull off the combined braking technique as we mentioned earlier , without much practice and precesion 
+        and till you master that braking technquie , i reccomend you only using the front brake , but progressively , that means slowly applying the brake more and more as the front wheel gains the weight of the bike more and more 
+        this will provide around 80%-90% of the braking force , so it is a good workaround till you learn the combined braking techniques
+
+        now lest take a look at braking while cornering 
+         everything we learned so far in braking in a straight line applies on corners too, so the weight transfer is still there and rear brake is still more dangerous 
+         with our rear brake , a skid or drift is almost guanteed if done incorrectly and you have to be more precise on the front brake using it even more slowly and progressively
+         since part of our traction goes to stablizing our bike while cornering the more we lean, the less traction we have in our tyres to spare 
+         but due to simple wierdly complex and boring stuff , we can brake rather hard in the corners without much consequences, but rember to use the combiend braking technique
+         now the concern is how our bike behaves while braking during a lean 
+            when our bike is leaned the contact patch of the tyre is no longer on the center line directly below the bike, it offset by a margin , when we apply the front brak in this position , the bike tends to stand up and go straight or wide , and while braking we lose speed so the bike gets a tighter lean angle , so this two stuff cancels each other out , 
+            and our bike trajectory(link this using markup https://www.merriam-webster.com/dictionary/trajectory) remains around the same (isnt that convininet)
+            so the key is simple we apply the front brake in a smotth and controlled, keeping our arms relaxed , letting the front wheel and physics handles the rest 
+            so yeah a ABS system is a must , and is really helpfull
+        *end*
+
+3.1
+    Riding a motorcycle can be an exhilarating experience, but it can also be dangerous if proper safety measures are not taken. Unfortunately, many motorcycle riders choose to forego wearing protective gear, putting themselves at risk of serious injury or even death in the event of an accident.
+    we’ll discuss the importance of wearing protective gear while riding a motorcycle and the risks and consequences of not doing so.
+    The Risks of Riding a Motorcycle Without Protective Gear
+        Without protective gear, riders are vulnerable to a range of injuries, including:
+            Road rash
+            Cuts and bruises
+            Broken bones
+            Head injuries
+            In the worst-case scenario, an accident without proper gear can even result in fatalities.
+        While protective gear cannot completely eliminate the risks of riding a motorcycle, it can greatly reduce the severity of injuries in the event of an accident. That’s why it is crucial for riders to wear proper gear every time they hit the road.
+    Types of Protective Gear for Motorcycle Riders
+        There are several types of protective gear that motorcycle riders should wear to reduce the risk of injury in the event of an accident.
+        The most essential gear includes a helmet, jacket, gloves, pants, and boots. These items are designed to protect riders from head injuries, road rash, and other common injuries associated with motorcycle accidents.
+        Riders can also opt for more advanced gear, such as airbag vests and suits, which provide additional protection in the event of a crash.
+        tho focusing on the main riding gear is more important
+*end*
+
+3.2
+    this guide only covers how to choose a helmet , more specifically it covers the rating system and what companies should you trust 
+    helmet is so important, that it has its own guide to choose it
+    You'll notice a motorcycle helmet looks much different from a dirt bike or motocross helmet. Helmets designed for motorcycles are more round without the extended chin protection needed for dirt bike riding. Plus, you have a variety of choices
+        but you should always choose a full face helmet over any other or half faced helmet
+        why? 
+            because if you fall the helmets only job is to protect your face , but with the half helmets , youll take the contact directly on your chin , that can cause you jaw to break and even send after shock effect sto the brain, so helmet didnt protect shit in this scenario
+            half face helmet is a gimmick and you should avoid it as much as possible
+        Let’s explore each relevant helmet standard so you know what you’re looking at the next time you go helmet shopping. 
+        DOT
+            The DOT standard only applies to helmets sold in the US, and all helmets must be DOT certified.
+            The DOT test comprises three main sections:
+             An impact attenuation test: The helmet is subjected to a series of impacts from a flat and round anvil at four sites, with two impacts per site. This tests how effective the helmet is at absorbing an impact.
+                A penetration test: To test how effective the helmet is at deterring an object from penetrating the shell, a pointed striker is dropped onto various sites of the helmet.
+                A retention strap test: To make sure the retention strap is secure enough to keep the helmet in place, weights of 50 lbs and 300 lbs are strapped to the helmet, ensuring the strap doesn’t elongate more than an inch after each load. 
+            The helmets are tested in four different environments to ensure they operate the same in each. The idea is that these conditions represent real riding conditions:
+                Humidity
+                Low temperature
+                High temperature
+                Water immersion
+            Providing the helmet passes the above tests, it is deemed fit for sale.
+        SNELL
+            Another set of standards that apply to helmets in the US is SNELL. The SNELL Memorial Foundation is an independent authority that applies rigorous testing to improve the standard protection of crash helmets. 
+            There are six stages to the SNELL testing that a helmet needs to pass in order to display a SNELL-approved sticker:
+            The first three tests are similar to those of the DOT:
+                Impact test: Similar to the DOT test, but the helmet is dropped onto various surfaces at various speeds and the energy the helmet absorbs in the impact is measured. 
+                Retention strap performance: SNELL uses heavier weights than the DOT test. 
+                Penetration test
+            SNELL then performs three tests that the DOT does not:
+                Fit test: This test checks that the helmet fits securely on the head. 
+                Chin-bar test: To ensure the helmet stays in place and is effective in an impact, a weight is dropped onto the chin bar.
+                Face-shield penetration test: Air-gun pellets are shot at the face shield.
+            Manufacturers voluntarily submit their helmets for SNELL testing, and there is no requirement for them to do so. SNELL will also buy helmets off the shelf for testing. 
+        ECE and SHARP
+            However, you should still understand ECE standards because a helmet that is both DOT and ECE approved will undergo more-rigorous testing and provide more protection than a helmet that is only DOT approved. 
+    you should check for all the certification of the helmet and only buy from a trusted brand, here is the the helmet i use and recommend
+        AGV K-1 S
+*end*
+
+3.3
+    we talked about helmet in the previous guide, lets take a look at rest of the riding gear , i will be oredering them in the order you should inc=vest money , so if you have limited money, priortize the upper riding gear first since helmet is most important , it should always be the first 
+        1. boots 
+            Motorcycle boots are an underrated essential when it comes to choosing the right motorcycle gear.
+            The right boots also offer a firm grip on the footpegs, enhancing control and stability while riding. Look for boots with reinforced toe caps and sturdy soles, as they provide durability and protect against impacts
+            Waterproof or water-resistant boots can keep your feet dry during rainy rides, ensuring both comfort and safety. Additionally, consider boots with reflective elements for increased visibility, especially during nighttime riding.
+        2. gloves  
+            Motorcycle gloves play a crucial role in protecting your hands during accidents or falls. 
+            consider gloves with touchscreen compatibility for convenient smartphone use. Proper ventilation is essential for keeping your hands cool and comfortable during rides
+            Adjustable closures offer a secure and customized fit.
+            Prioritize gloves that provide the best protection and enhance your control over the motorcycle.
+        3. jacket 
+            Motorcycle jackets are an essential piece of gear that provides crucial protection against abrasions and impact. For maximum impact protection, look for jackets with CE-rated armor.
+            ackets with ventilation systems are important as they help regulate body temperature during rides.
+            When choosing a jacket, consider durable materials like leather or textile that offer both protection and comfort
+        4. pants
+            When it comes to choosing motorcycle pants, durability and abrasion resistance are key factors to consider
+            Opt for pants made from high-quality materials that can withstand the scrapes and potential impacts of a motorcycle accident. Look for pants with built-in armor, such as knee or hip protectors
+            It’s also important to choose pants with proper ventilation to keep you cool during hot rides. Additionally, consider pants with waterproof or water-resistant properties to ensure you stay dry in wet weather conditions.
+        final tip   
+            never cheap out on the riding gear, buy the highest quality stuff your budget allows , be safe 
+*end*
